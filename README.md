@@ -67,7 +67,9 @@ Communists resumed, eventually leading to the establishment of the People’s Re
 Global Consequences: 
 ●	Human Losses: The war caused unprecedented human suffering, with an estimated 70-85 million deaths, including civilian casualties from bombings, genocide, and famine. 
 ●	Technological Advancements: The war accelerated developments in technology, including radar, jet engines, and nuclear energy, all of which would shape the postwar world. 
-In sum, World War II reshaped the global order, leading to the decline of European empires, the emergence of the U.S. and the Soviet Union as superpowers, and the beginning of new geopolitical struggles, most notably the Cold War. 
+In sum, World War II reshaped the global order, leading to the decline of European empires, the emergence of the U.S. and the Soviet Union as superpowers, and the beginning of new geopolitical struggles, most notably the Cold War.
+![image](https://github.com/user-attachments/assets/f0b64376-ae11-41ea-8f55-13a831312444)
+
   
 #### Scenario 2: Personal Advice (Career Guidance) 
 ##### Naïve Prompt: 
